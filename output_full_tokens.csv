@@ -1,0 +1,96 @@
+Word,Entropy,Sentence #,Is First Word,Previous Word,Sentence (truncated)
+Dave,0.947,1,TRUE,,Dave watched as the forest burned up on 
+watched,0.792,1,FALSE,Dave,Dave watched as the forest burned up on 
+as,0.861,1,FALSE,watched,Dave watched as the forest burned up on 
+the,0.824,1,FALSE,as,Dave watched as the forest burned up on 
+forest,0.808,1,FALSE,the,Dave watched as the forest burned up on 
+burned,0.821,1,FALSE,forest,Dave watched as the forest burned up on 
+up,0.827,1,FALSE,burned,Dave watched as the forest burned up on 
+on,0.796,1,FALSE,up,Dave watched as the forest burned up on 
+the,0.783,1,FALSE,on,Dave watched as the forest burned up on 
+hill,0.784,1,FALSE,the,Dave watched as the forest burned up on 
+only,0.808,1,FALSE,hill,Dave watched as the forest burned up on 
+a,0.795,1,FALSE,only,Dave watched as the forest burned up on 
+few,0.794,1,FALSE,a,Dave watched as the forest burned up on 
+miles,0.737,1,FALSE,few,Dave watched as the forest burned up on 
+from,0.744,1,FALSE,miles,Dave watched as the forest burned up on 
+her,0.716,1,FALSE,from,Dave watched as the forest burned up on 
+house,0.802,1,FALSE,her,Dave watched as the forest burned up on 
+The,0.934,2,TRUE,,The car had been hastily packed and Mart
+car,0.75,2,FALSE,The,The car had been hastily packed and Mart
+had,0.845,2,FALSE,car,The car had been hastily packed and Mart
+been,0.812,2,FALSE,had,The car had been hastily packed and Mart
+hastily,0.849,2,FALSE,been,The car had been hastily packed and Mart
+packed,0.809,2,FALSE,hastily,The car had been hastily packed and Mart
+and,0.847,2,FALSE,packed,The car had been hastily packed and Mart
+Marta,0.748,2,FALSE,and,The car had been hastily packed and Mart
+was,0.807,2,FALSE,Marta,The car had been hastily packed and Mart
+inside,0.756,2,FALSE,was,The car had been hastily packed and Mart
+trying,0.816,2,FALSE,inside,The car had been hastily packed and Mart
+to,0.82,2,FALSE,trying,The car had been hastily packed and Mart
+round,0.825,2,FALSE,to,The car had been hastily packed and Mart
+up,0.805,2,FALSE,round,The car had been hastily packed and Mart
+the,0.76,2,FALSE,up,The car had been hastily packed and Mart
+last,0.739,2,FALSE,the,The car had been hastily packed and Mart
+of,0.755,2,FALSE,last,The car had been hastily packed and Mart
+the,0.749,2,FALSE,of,The car had been hastily packed and Mart
+pets,0.76,2,FALSE,the,The car had been hastily packed and Mart
+Dave,0.92,3,TRUE,,Dave went through his mental list of the
+went,0.772,3,FALSE,Dave,Dave went through his mental list of the
+through,0.785,3,FALSE,went,Dave went through his mental list of the
+his,0.777,3,FALSE,through,Dave went through his mental list of the
+mental,0.794,3,FALSE,his,Dave went through his mental list of the
+list,0.82,3,FALSE,mental,Dave went through his mental list of the
+of,0.837,3,FALSE,list,Dave went through his mental list of the
+the,0.82,3,FALSE,of,Dave went through his mental list of the
+most,0.786,3,FALSE,the,Dave went through his mental list of the
+important,0.777,3,FALSE,most,Dave went through his mental list of the
+papers,0.767,3,FALSE,important,Dave went through his mental list of the
+and,0.771,3,FALSE,papers,Dave went through his mental list of the
+documents,0.807,3,FALSE,and,Dave went through his mental list of the
+that,0.809,3,FALSE,documents,Dave went through his mental list of the
+they,0.785,3,FALSE,that,Dave went through his mental list of the
+could,0.761,3,FALSE,they,Dave went through his mental list of the
+n't,0.767,3,FALSE,could,Dave went through his mental list of the
+leave,0.751,3,FALSE,n't,Dave went through his mental list of the
+behind,0.75,3,FALSE,leave,Dave went through his mental list of the
+He,0.941,4,TRUE,,He scolded himself for not having prepar
+scolded,0.792,4,FALSE,He,He scolded himself for not having prepar
+himself,0.768,4,FALSE,scolded,He scolded himself for not having prepar
+for,0.83,4,FALSE,himself,He scolded himself for not having prepar
+not,0.759,4,FALSE,for,He scolded himself for not having prepar
+having,0.833,4,FALSE,not,He scolded himself for not having prepar
+prepared,0.855,4,FALSE,having,He scolded himself for not having prepar
+these,0.829,4,FALSE,prepared,He scolded himself for not having prepar
+better,0.795,4,FALSE,these,He scolded himself for not having prepar
+in,0.811,4,FALSE,better,He scolded himself for not having prepar
+advance,0.746,4,FALSE,in,He scolded himself for not having prepar
+and,0.794,4,FALSE,advance,He scolded himself for not having prepar
+hoped,0.768,4,FALSE,and,He scolded himself for not having prepar
+that,0.802,4,FALSE,hoped,He scolded himself for not having prepar
+he,0.833,4,FALSE,that,He scolded himself for not having prepar
+had,0.828,4,FALSE,he,He scolded himself for not having prepar
+remembered,0.852,4,FALSE,had,He scolded himself for not having prepar
+everything,0.802,4,FALSE,remembered,He scolded himself for not having prepar
+that,0.799,4,FALSE,everything,He scolded himself for not having prepar
+was,0.756,4,FALSE,that,He scolded himself for not having prepar
+needed,0.749,4,FALSE,was,He scolded himself for not having prepar
+He,0.904,5,TRUE,,He continued to wait for Marta to appear
+continued,0.742,5,FALSE,He,He continued to wait for Marta to appear
+to,0.734,5,FALSE,continued,He continued to wait for Marta to appear
+wait,0.756,5,FALSE,to,He continued to wait for Marta to appear
+for,0.76,5,FALSE,wait,He continued to wait for Marta to appear
+Marta,0.796,5,FALSE,for,He continued to wait for Marta to appear
+to,0.816,5,FALSE,Marta,He continued to wait for Marta to appear
+appear,0.789,5,FALSE,to,He continued to wait for Marta to appear
+with,0.796,5,FALSE,appear,He continued to wait for Marta to appear
+the,0.776,5,FALSE,with,He continued to wait for Marta to appear
+pets,0.776,5,FALSE,the,He continued to wait for Marta to appear
+but,0.802,5,FALSE,pets,He continued to wait for Marta to appear
+she,0.811,5,FALSE,but,He continued to wait for Marta to appear
+still,0.809,5,FALSE,she,He continued to wait for Marta to appear
+was,0.798,5,FALSE,still,He continued to wait for Marta to appear
+nowhere,0.753,5,FALSE,was,He continued to wait for Marta to appear
+to,0.725,5,FALSE,nowhere,He continued to wait for Marta to appear
+be,0.822,5,FALSE,to,He continued to wait for Marta to appear
+seen,0.808,5,FALSE,be,He continued to wait for Marta to appear

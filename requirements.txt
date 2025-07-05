@@ -1,0 +1,6 @@
+spacy
+networkx
+node2vec
+numpy
+scipy
+matplotlib
